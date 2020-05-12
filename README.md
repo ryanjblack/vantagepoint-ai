@@ -29,4 +29,17 @@ Tired of seeing others profit off timing the market? Stop worrying about timing 
 When oil prices tanked, VantagePoint's sophisticated AI forecasts predicted the results with incredible accuracy. Don't just be there for the next major move, learn how you can get in before it happens.
 
 ## SIGN UP TO LEARN MORE
+Don't miss out on this opportunity to change your market strategy dramatically. Reserve your spot today!
 ![alt text goes here|ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/super-tech-bros.jpg "Don't chase the market, be prepared for the shifts with our industry-leading tools and training.")
+
+# Webpage reccomendations:
+*Formatting* is the first major area I would polish - the spacing between text and lines of text need to be fixed. I would fix these with margin and padding in the __CSS__.
+
+Next is the lack of images and image formatting. I would recomend more images with captions (so we can insert alt tags, this great for SEO. More instances of VantagePoint on search = greater link equity) and making sure they are featuring people (usually smiling faces - builds user trust). I would use at least 3 images. Look at the code for the above images, I've included alt tag and caption examples.
+
+The __current form__ is effective because it only has 3 form fields (less is better) but it also could use some spacing adjustments. 
+
+I would also add something like the copy I provided in a __blog format__ below the fold. I think using compelling bullet points to draw users in on top, then having details for the users who want them is a good idea. I don't think most users are going to read everything, but it helps to build user trust to have exhaustive but thoughtful content.
+
+A technical reccomendation would be to __host this page directly on the VantagePoint website__ for SEO purposes. Any user tracking or activity can be administered using Pardot on that page as well as engagement programs based on their actions. If we are sending an email blast to all users we could be getting **all of the web traffic directed to VantagePoint instead of to clickfunnels subdomain**. If the email list is 30,000 people and you get 20% to open and 7% to click and 1-2% to convert, that 7% is web traffic that could appear on VantagePoint's website. This would build the site's domain authority and help with SEM rankings as well. You can see a direct result in this by tracking in Google analytics & Google webmasters. Clickfunnels might make some aspects easier for asset building but I think it might be detrimental in the long run for SEO purposes. I can see using both platforms in tandem, especially with teams that may not know web dev, but I would definitely think about the flow of traffic to VantagePoint as being a priority. Maybe the first point of contact should be on a VantagePoint webpage and then once the user engages in the sales funnel then the subsequent pages can work through the clickfunnels UX.
+
