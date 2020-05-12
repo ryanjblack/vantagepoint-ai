@@ -1,5 +1,3 @@
-![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://ryanjblack.io/vp-logo.png "No matter your experience level, you can succeed in this market. Our experts will give you the knowledge and the confidence you're making the right market moves.")
-
 # How to Succeed in the (New) Markets
 
 Thriving in this irrational market requires smart, modern solutions. VantagePoint has all the tools you need to make sense of the market so you make the right market moves. Sign up for our webinar *Monday, May 11th, 2020 at 3:30pm (EST)* to learn more about our patented AI market forecasting.
