@@ -1,3 +1,5 @@
+![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://ryanjblack.io/vp-logo.png "No matter your experience level, you can succeed in this market. Our experts will give you the knowledge and the confidence you're making the right market moves.")
+
 # How to Succeed in the (New) Markets
 
 Thriving in this irrational market requires smart, modern solutions. VantagePoint has all the tools you need to make sense of the market so you make the right market moves. Sign up for our webinar *Monday, May 11th, 2020 at 3:30pm (EST)* to learn more about our patented AI market forecasting.
@@ -7,6 +9,8 @@ When oil prices hit jaw-dropping lows last month, it made worldwide news. From m
 The traders who placed bets in antcipation of oil's catastrophic price collapse saw incredible, life-changing returns. How could these traders notice and sieze this opportunity before the world-at-large? 
 
 __Market Forecasting__ has entered the 21st century, and it's powered by __A.I. technology__. VantagePoint's patented A.I. market forecasting predicts market moves across all markets with an astounding 85% accuracy.
+
+![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://ryanjblack.io/oil-forecast.png "No matter your experience level, you can succeed in this market. Our experts will give you the knowledge and the confidence you're making the right market moves.")
 
 Join us Monday and learn how to leverage our forecasting tools to work for you. Learn how to be in-the-know and make incredible gains during the next wave of market changes.
 
