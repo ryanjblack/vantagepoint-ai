@@ -44,7 +44,7 @@ Don't miss out on this opportunity to change your market strategy dramatically. 
 
 Next is the lack of images and image formatting. I would recomend more images with captions (so we can insert alt tags, this great for SEO. More instances of VantagePoint on search = greater link equity) and making sure they are featuring people (usually smiling faces - builds user trust). I would use at least 3 images. Look at the code for the above images, I've included alt tag and caption examples.
 
-The __current form__ is effective because it only has 3 form fields (less is better) but it also could use some spacing adjustments. 
+The __current form__ is effective because it only has 3 form fields (less is always better) but it also could use some spacing adjustments. 
 
 I would also add something like the copy I provided in a __blog format__ below the fold. I think using compelling bullet points to draw users in on top, then having details for the users who want them is a good idea. I don't think most users are going to read everything, but it helps to build user trust to have exhaustive but thoughtful content.
 
