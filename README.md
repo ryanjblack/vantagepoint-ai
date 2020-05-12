@@ -1,6 +1,3 @@
-# vantagepoint-ai
-Markdown writing sample
-
 # How to Succeed in the (New) Markets
 
 ![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/tech-bros.jpg "Sign up for our Webinar to learn how we predicted the oil crash months in advance. See how our tools can put your money to work for you.")
