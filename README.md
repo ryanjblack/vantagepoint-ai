@@ -24,11 +24,9 @@ What are the returns like when you can forecast market moves with 85% accuracy? 
 So many market forecasters get it wrong. Find out why VantagePoint gets it right. From sophisticated software, interactive learning, market updates, alerts and more there's a wealth of indicators for you to choose from to ensure the best route to success in the market.
 
 ## SAY NO TO FOMO:
-
-![alt text goes here|ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/super-tech-bros.jpg "Don't chase the market, be prepared for the shifts with our industry-leading tools and training.")
-
 Tired of seeing others profit off timing the market? Stop worrying about timing the market when you can forecast the market - with 85% accuracy. 
 
 When oil prices tanked, VantagePoint's sophisticated AI forecasts predicted the results with incredible accuracy. Don't just be there for the next major move, learn how you can get in before it happens.
 
 ## SIGN UP TO LEARN MORE
+![alt text goes here|ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/super-tech-bros.jpg "Don't chase the market, be prepared for the shifts with our industry-leading tools and training.")
