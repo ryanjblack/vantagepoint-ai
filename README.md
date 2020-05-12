@@ -1,7 +1,5 @@
 # How to Succeed in the (New) Markets
 
-![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/tech-bros.jpg "Sign up for our Webinar to learn how we predicted the oil crash months in advance. See how our tools can put your money to work for you.")
-
 Thriving in this irrational market requires smart, modern solutions. VantagePoint has all the tools you need to make sense of the market so you make the right market moves. Sign up for our webinar *Monday, May 11th, 2020 at 3:30pm (EST)* to learn more about our patented AI market forecasting.
 
 When oil prices hit jaw-dropping lows last month, it made worldwide news. From media headlines to late night talk shows, it seemed like everyone wanted to get a piece of the action. But VantagePoint's patented A.I. market forecasting predicted an oil downturn months before it made major news. 
