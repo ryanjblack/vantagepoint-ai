@@ -30,7 +30,14 @@ When oil prices tanked, VantagePoint's sophisticated AI forecasts predicted the 
 
 ## SIGN UP TO LEARN MORE
 Don't miss out on this opportunity to change your market strategy dramatically. Reserve your spot today!
+
 ![alt text goes here|ai-market-forecasting-vantagepoint](http://www.ryanjblack.io/super-tech-bros.jpg "Don't chase the market, be prepared for the shifts with our industry-leading tools and training.")
+
+[Click here to sign up](https://vantagepoint.clickfunnels.com/market-movement-webinar-opt-in-vp)
+
+
+
+
 
 # Webpage reccomendations:
 *Formatting* is the first major area I would polish - the spacing between text and lines of text need to be fixed. I would fix these with margin and padding in the __CSS__.
