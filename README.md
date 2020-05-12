@@ -8,9 +8,7 @@ The traders who placed bets in antcipation of oil's catastrophic price collapse 
 
 __Market Forecasting__ has entered the 21st century, and it's powered by __A.I. technology__. VantagePoint's patented A.I. market forecasting predicts market moves across all markets with an astounding 85% accuracy.
 
-![alt text goes here|what-is-ai-market-forecasting-vantagepoint](http://ryanjblack.io/oil-forecast.png "No matter your experience level, you can succeed in this market. Our experts will give you the knowledge and the confidence you're making the right market moves.")
-
-Join us Monday and learn how to leverage our forecasting tools to work for you. Learn how to be in-the-know and make incredible gains during the next wave of market changes.
+Join us **Monday** and learn how to leverage our forecasting tools to work for you. Learn how to be in-the-know and make incredible gains during the next wave of market changes.
 
 ## MARKET FORECASTING FOR ALL EXPERIENCE LEVELS:
 In this webinar, you will learn how to make our easy-to-use market forcasting tools work for you. No matter your skill level, we have indicators traders can use to predict market moves across ALL markets (even Forex). 
